@@ -1,2 +1,2 @@
-# 1}}reosorio
- Primeiro Repositporio para aprender Git e GitHub
+# 1º repositório
+ Primeiro Repositório para aprender Git e GitHub
