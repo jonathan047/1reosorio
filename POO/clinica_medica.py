@@ -21,3 +21,25 @@ def valor(self):
 @valor.setter
 def valor(self,value):
     senha = input("Entre com a senha: ")
+    if senha != '3572':
+        print("Senha inválida!")
+    else:
+        print("Valor alterado com sucesso!")
+        
+@property
+def medico(self):
+    return self.__medico
+
+@property
+def pago(self):
+    return self.__pago
+
+def pagar_consulta(self):
+    cartao = input("Número do cartão: ")
+    self.__pago = True
+    
+def agendar_retorno(self,data):
+    if self.__pago ==True:
+        
+    else:
+        print("Pague a consulta para poder marcar o retorno!")
