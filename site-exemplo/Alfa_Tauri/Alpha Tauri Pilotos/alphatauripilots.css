@@ -1,0 +1,34 @@
+body{
+    background-image: url("Alpha Tauri pilotos.jpg");
+    background-repeat: no-repeat;
+    background-size:100% ;
+    margin-right: auto;
+    margin-left: auto;
+    background-attachment: scroll;
+    background-color: #7b8c9c;
+    background-position-y: center;
+    background-position-x: center;
+}
+
+ul{
+    widows:800px;
+    list-style-type: none;
+    display:flex;
+    margin:100px auto;
+}
+
+*{
+    margin: 0;
+    padding:0;
+}
+
+h3{
+    color: aliceblue;
+    font-style: oblique;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-style:inherit;
+}
