@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+   background-image:url("AT_GAL.png");
+}
+
+a{
+   text-align:center;
+}
+
+nav{
+   float:left;
+   width: 30%;
+   height: 300px;
+   padding: 20px;
+}
+
+nav ul{
+   list-style-type: disc;
+   padding: auto;
+}
