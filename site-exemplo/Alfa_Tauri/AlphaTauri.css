@@ -1,0 +1,61 @@
+body{
+    background-image: url("alpha-tauri-scuderia-ferrari.jpg");
+    background-repeat: no-repeat;
+    background-size: width=10% height=90%;
+    background-position-x: 45%;
+    background-position-y: 50%;
+    background-attachment: scroll;
+    background-color: #7b8c9c;
+}
+
+li{
+    display:inline;
+    float:left;
+    border-right:5px solid #0000ff;
+}
+
+li:last-child {
+    border-right:none;
+}
+
+a{
+    text-align:center;
+    display:block;
+    padding:14px 16px;
+    color:#ffffff;
+    background-color:#070746;
+}
+
+li a:hover{
+    background-color:#111;
+}
+
+.active{
+    background-color:#b7b7d6;
+}
+
+ul{ 
+    list-style-type:none;
+    position: fixed;
+    top:0;
+    width:100%
+}
+
+.topnav{
+    overflow:hidden;
+    background-color: #333;
+}
+
+.topnav a{
+    float: left;
+    display:block;
+    color:#1c1c72;
+    text-align:center;
+    padding:16px 14px;
+    text-decoration: none;
+}
+
+.topnav a:hover{
+    background-color:#1c1c72;
+    color:#f5f5f5;
+}
