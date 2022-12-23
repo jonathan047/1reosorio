@@ -1,0 +1,27 @@
+body{
+    background-image: url("full_F1.jpg");
+}
+
+h1{
+    color:rgb(214, 206, 203);
+    text-shadow: 2px 2px 5px rgb(214, 206, 203);
+    text-align: center;
+}
+
+h3{
+    color:rgb(214, 206, 203);
+    text-shadow: 1px 1px 4px rgb(214, 206, 203);
+    font-size:18px
+}
+
+h2{
+    color:rgb(214, 206, 203);
+    text-shadow:1px 1px 4px rgb(214, 206, 203);
+    font-size:18px
+}
+
+a{
+    color:rgb(214, 206, 203);
+    text-shadow:1px 1px 4px rgb(214, 206, 203)
+}
+
