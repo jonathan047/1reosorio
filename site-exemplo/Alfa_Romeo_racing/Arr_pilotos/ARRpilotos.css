@@ -1,0 +1,35 @@
+body{
+    background-image:url("01.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: black;
+    background-attachment:scroll;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+h1{
+    color: rgb(238, 231, 231);
+    font-style: italic;
+    text-shadow: 5px 5px 10px;
+    text-align: center;
+}
+
+h3{
+    color:rgb(238, 231, 231) ;
+    text-shadow:5px 5px 10px ;
+
+}
+
+*{
+    margin: 0;
+    padding:0 ;
+}
+
+ul{
+    widows: 880px;
+    list-style-type:none;
+    display: flex;
+    margin: 100px auto;
+}
