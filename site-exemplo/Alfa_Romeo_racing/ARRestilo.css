@@ -1,0 +1,23 @@
+body{
+    background-image:url("MG_7219-L-crop-1522443975-1200x410.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color:rgb(172, 34, 34);
+}
+
+h1{
+    text-shadow:3px 3px 7px rgb(112, 110, 110);
+}
+
+h4{
+    color: rgb(240, 234, 234);
+    text-shadow:2px 2px 5px black;
+}
+
+h3{
+   text-shadow:3px 3px 7px rgb(112, 110, 110); 
+}
+
+a{
+    color: hsl(0, 89%, 48%);
+}
